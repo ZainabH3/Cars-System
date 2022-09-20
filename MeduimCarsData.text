@@ -1,0 +1,2 @@
+Id, Color, Width, Hieght, Doors, Windows, Speed, IsConditioning
+3,black,60.0,20.0,8,8,150,true

@@ -1,0 +1,3 @@
+Id, Color, Width, Hieght, Doors, Windows, Speed, Bag, Steering
+1,red,60.0,10.0,4,4,50,small car,A B C
+2,white,30.0,10.0,4,4,60,small car2,A B C
